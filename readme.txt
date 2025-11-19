@@ -1,0 +1,1 @@
+Un sitio web personal moderno y responsive que incluye información biográfica, hobbies y un formulario de contacto funcional con PHP y base de datos MySQL.
