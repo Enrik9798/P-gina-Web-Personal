@@ -1,11 +1,3 @@
-/* Reset básico */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* Fuente y fondo general */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f0f4f8;
@@ -13,7 +5,6 @@ body {
   padding: 20px;
 }
 
-/* Encabezado */
 header {
   text-align: center;
   background-color: #0077b6;
@@ -32,7 +23,6 @@ header .foto {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
-/* Sección principal */
 section {
   max-width: 1000px;
   margin: auto;
@@ -42,7 +32,6 @@ section {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Bloques con imagen a la derecha */
 .bloque {
   display: flex;
   align-items: center;
@@ -64,7 +53,6 @@ section {
   min-width: 250px;
 }
 
-/* Hobbies con estilo */
 .hobbie1,
 .hobbie2 {
   background-color: #e0f7fa;
@@ -73,7 +61,6 @@ section {
   border-radius: 8px;
 }
 
-/* Títulos */
 h2 {
   color: #023e8a;
   margin-top: 20px;
@@ -86,12 +73,11 @@ h3 {
   margin-bottom: 10px;
 }
 
-/* Pie de página */
 footer {
   text-align: center;
   margin-top: 40px;
 }
-/* Encabezado del formulario */
+
 header h1 {
   text-align: center;
   background-color: #0077b6;
@@ -101,7 +87,6 @@ header h1 {
   margin-bottom: 30px;
 }
 
-/* Estilo general del formulario */
 form {
   max-width: 600px;
   margin: auto;
@@ -114,7 +99,6 @@ form {
   gap: 20px;
 }
 
-/* Etiquetas y campos */
 label {
   display: flex;
   flex-direction: column;
@@ -139,7 +123,6 @@ textarea:focus {
   outline: none;
 }
 
-/* Botón de envío */
 button[type="submit"] {
   background-color: #0077b6;
   color: white;
@@ -155,7 +138,6 @@ button[type="submit"]:hover {
   background-color: #023e8a;
 }
 
-/* Pie de página */
 footer {
   text-align: center;
   margin-top: 30px;

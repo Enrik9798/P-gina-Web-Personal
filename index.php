@@ -18,7 +18,7 @@
   <div class="texto">
     <p>Hola, me llamo Fredy Guaman vivo en la cuidad de Cañar, tengo 28 años, soy estudiante de la carrera de ingeniería en tecnologías de la información en la universidad técnica particular de Loja, actualmente estoy trabajando como guardia de seguridad en una cooperativa de ahorro y crédito.</p>
     <br>
-    <p>Llevo casado 6 años, tengo una hermosa hija, ella es mi motivo para seguir adelante y todo lo hago por ella, me gustaría pasar más tiempo con ella, observar cómo va creciendo física y psicológicamente, pero por cuestiones de trabajo y estudio me limita a unas pocas horas al día.</p>
+    <p>Tengo una hermosa hija, ella es mi motivo para seguir adelante y todo lo hago por ella, me gusta pasar tiempo con ella, observar cómo va creciendo física y psicológicamente, aunque por cuestiones de trabajo y estudio me limita a unas pocas horas al día, hago lo posible para estar con ella.</p>
   </div>
   <img src="imagenes/Foto_guardia.jpeg" alt="foto de guardia">
 </div>
